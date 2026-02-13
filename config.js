@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YIPPEE🥰🥰, Let's both enjoy ourselves, my eternal love💕",
+        title: "YIPPEE🥰🥰, Let's both enjoy ourselves today, my eternal love💕",
         message: "Lao pò ,My dear wife,I thank you infinitely for being in my life. With you here everything is better, I love you SO SO much,wallahi. And just so you know I'm so proud of you, my eternal love, my naseeb for standing strong amidst the storms in your mind💕. insha'Allah we'll be together fih dunya wal Akhirah(ameen)❤️ and may Allah help me in treating you the way you always wanted(ameen)❤️. My dear valentine, my wife, My Zaibaa Fatimah Hassen💕. MWAHHHHH🥰🥰",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -69,7 +69,7 @@ const CONFIG = {
     animations: {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "40px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.8s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        bounceSpeed: "0s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
